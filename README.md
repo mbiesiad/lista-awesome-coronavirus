@@ -547,3 +547,5 @@ You can become a sponsor of `awesome-coronavirus` and be placed at the top of th
 ## Contribution
 Contributions welcome! Read the [contribution guidelines](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md) first.
 
+____________________________________________
+Stworzone przez @[soroushchehresa](https://github.com/soroushchehresa) polska wersja od @[mbiesiad](https://github.com/mbiesiad)
