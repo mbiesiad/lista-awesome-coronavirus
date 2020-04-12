@@ -1,15 +1,15 @@
 
-# Contribution Guidelines
+# Wytyczne dotyczące współtworzenia
 
-If you want to contribute, note that you should only update `data/*.json`.
+Jeśli chcesz wnieść swój wkład, pamiętaj, że powinieneś tylko aktualizować `data/*.json`.
 
-Ensure your pull request adheres to the following guidelines:
+Upewnij się, że pull request jest zgodny z następującymi wytycznymi:
 
-- Place your item at end of the related list.
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make an individual pull request for each suggestion.
-- Keep descriptions short and simple, but descriptive.
-- Check your spelling and grammar.
-- New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.
+- Umieść swój przedmiot na końcu powiązanej listy.
+- Przeszukaj poprzednie sugestie przed utworzeniem nowej, ponieważ twoje mogą być duplikatem.
+- Złóż indywidualny pull request dla każdej sugestii.
+- Opisy powinny być krótkie i proste, ale opisowe.
+- Sprawdź pisownię i gramatykę.
+- Nowe kategorie lub ulepszenia istniejącej kategoryzacji są mile widziane, ale należy to zrobić w osobnym pull request'ie.
 
-Thank you for your suggestion!
+Dziękujemy za twoją sugestię!
