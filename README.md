@@ -6,67 +6,67 @@
 	<br>
 	<hr>
 	<p>
-	<h2>Sponsors</h2>
+	<h2>Sponsorzy</h2>
 	<a href="https://starhub.soroushapps.com"><img src="https://i.imgur.com/H5SELmm.png" width="270px"></a>
 	</p>
 	<hr>
 	<br>
 </div>
 
-# Awesome Coronavirus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/github/license/soroushchehresa/awesome-coronavirus"> <img src="https://img.shields.io/travis/soroushchehresa/awesome-coronavirus" alt="build status"> [<img src="https://img.shields.io/badge/sponsors-become%20a%20sponsor-blueviolet">](#donation-and-sponsoring)
+# Lista Awesome Coronavirus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://img.shields.io/github/license/soroushchehresa/awesome-coronavirus"> <img src="https://img.shields.io/travis/soroushchehresa/awesome-coronavirus" alt="build status"> [<img src="https://img.shields.io/badge/sponsors-become%20a%20sponsor-blueviolet">](#donation-and-sponsoring)
 
-> Useful projects and resources for COVID-19 (2019 novel Coronavirus)
+> Przydatne projekty i materiały dla COVID-19 (koronawirus 2019)
 
-COVID-19 (2019 novel Coronavirus) is a current epidemic as of today. Developers around the world are building applications for the public to get up-to-date and accurate information as quickly as possible. <br>
-If you are a developer, you may also be able to contribute to some of these projects.
+COVID-19 (Coronavirus 2019) to obecnie pandemia. Programiści na całym świecie tworzą aplikacje dla społeczeństwa, aby jak najszybciej uzyskać aktualne i dokładne informacje. <br>
+Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektórych z tych projektów.
 
 
-## Contents
-- [Get to Know](#get-to-know)
+## Zawartość
+- [Dowiedz się](#dowiedz-się)
 
-- [Open Source Projects](#open-source-projects)
+- [Projekty Open Source](#projekty-open-source)
   - [API](#api)
-  - [Statistics and Datasets](#statistics-and-datasets)
-  - [Models](#models)
-  - [Learning](#learning)
-  - [Maps](#maps)
-  - [Applications and Bots](#applications-and-bots)
-  - [Packages and Scripts](#packages-and-scripts)
+  - [Statystyka i zestawy danych](#statystyka-i-zestawy-danych)
+  - [Modele](#modele)
+  - [Nauka](#nauka)
+  - [Mapy](#mapy)
+  - [Aplikacje i boty](#aplikacje-i-boty)
+  - [Pakiety i skrypty](#pakiety-i-skrypty)
   - [CLI](#cli)
   - [Hardware](#hardware)
-  - [Data Stream](#data-stream)
+  - [Strumienie danych](#strumienie-danych)
 
-- [Applications](#applications)
-  - [Web Apps](#web-apps)
-  - [Android Apps](#android-apps)
-  - [IOS Apps](#ios-apps)
+- [Aplikacje](#aplikacje)
+  - [Aplikacje webowe](#aplikacje-webowe)
+  - [Aplikacje Android](#aplikacje-android)
+  - [Aplikacje IOS](#aplikacje-ios)
 
-- [Education and Courses](#education-and-courses)
+- [Edukacja i kursy](#edukacja-i-kursy)
 
-- [Social](#social)
+- [Społeczne](#społeczne)
   - [Twitter](#twitter)
   - [Telegram](#telegram)
   - [WhatsApp](#whatsApp)
   - [Forum](#forum)
 
-- [Articles and Books](#articles-and-books)
+- [Artykuły i książki](#artykuły-i-książki)
 
 - [Research Outlets](#research-outlets)
 
-- [Interactive Applications](#interactive-applications)
+- [Aplikacje interaktywne](#aplikacje-interaktywne)
 
-- [Hackathons](#hackathons)
+- [Hackatony](#hackatony)
 
-- [Current Status](#current-status)
+- [Aktualny stan](#aktualny-stan)
 
-- [Donation and Sponsoring](#donation-and-sponsoring)
+- [Darowizna i sponsoring](#darowizna-i-sponsoring)
 
-- [Contribution](#contribution)
-
-
+- [Współtworzenie](#współtworzenie)
 
 
-## Get to Know
+
+
+## Dowiedz się
 
 | Link  | Description  |
 |:------|:-------------|
@@ -76,7 +76,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Q&amp;A on coronaviruses (COVID-19)](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses) | World Health Organization. |
 
 
-## Open Source Projects
+## Projekty Open Source
 
 #### API
 
@@ -110,7 +110,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 2 | [@episphere](https://github.com/episphere)/[**corona**](https://github.com/episphere/corona) | Exploring realtime interoperability with COVID-19 data |
  | 0 | [@AtilioA](https://github.com/AtilioA)/[**COVID19-ES-Py**](https://github.com/AtilioA/COVID19-ES-Py) | 🛠 API em Python para consulta de casos de COVID-19 no estado do Espírito Santo. |
 
-#### Statistics and Datasets
+#### Statystyka i zestawy danych
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
@@ -155,7 +155,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 1 | [@hmpandey](https://github.com/hmpandey)/[**CoronaQs**](https://github.com/hmpandey/CoronaQs) | HTML renderable dataset of FAQs with label collected from various trusted resources like government, UN, WHO etc. |
  | 1 | [@sebaxtian](https://github.com/sebaxtian)/[**colombia_covid_19_pipe**](https://github.com/sebaxtian/colombia_covid_19_pipe) | Pipeline to get datasets from Instituto Nacional de Salud daily report Coronavirus Covid 19 of Colombia. |
 
-#### Models
+#### Modele
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
@@ -172,14 +172,14 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 1 | [@p-j-r](https://github.com/p-j-r)/[**covid-19**](https://github.com/p-j-r/covid-19) | Mathematical modelling for the spread of the novel coronavirus. SIR and stochastic models... |
  | 0 | [@microprediction](https://github.com/microprediction)/[**pandemic**](https://github.com/microprediction/pandemic) | A 2d contagion model with commuting modeled as OU processes |
 
-#### Learning
+#### Nauka
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
  | 307 | [@mattroconnor](https://github.com/mattroconnor)/[**deep_learning_coronavirus_cure**](https://github.com/mattroconnor/deep_learning_coronavirus_cure) | Using deep learning to generate novel molecules as candidates for binding with coronavirus protease |
  | 1 | [@jbesomi](https://github.com/jbesomi)/[**Korono**](https://github.com/jbesomi/Korono) | 👑Korono: question answering platform for COVID-19 papers |
 
-#### Maps
+#### Mapy
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
@@ -194,7 +194,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 4 | [@Polunom](https://github.com/Polunom)/[**COVID-INC**](https://github.com/Polunom/COVID-INC) | 🗺Interactive world map tracking the spread of COVID-19 |
  | 2 | [@ankitchouhan1020](https://github.com/ankitchouhan1020)/[**corona**](https://github.com/ankitchouhan1020/corona) | Map of confirmed coronavirus cases in India |
 
-#### Applications and Bots
+#### Aplikacje i boty
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
@@ -240,7 +240,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 0 | [@calpt](https://github.com/calpt)/[**CoronaPandemicBot**](https://github.com/calpt/CoronaPandemicBot) | 🦠 Yet another Telegram bot tracking the worldwide spread of COVID-19 (Novel Coronavirus) |
  | 0 | [@shaunsaker](https://github.com/shaunsaker)/[**covid-19-south-africa-app**](https://github.com/shaunsaker/covid-19-south-africa-app) | A React-Native mobile app that displays the latest COVID-19 stats for South Africa and sends push notifications when the stats are released. |
 
-#### Packages and Scripts
+#### Pakiety i skrypty
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
@@ -271,7 +271,7 @@ If you are a developer, you may also be able to contribute to some of these proj
  | 1601 | [@jcl5m1](https://github.com/jcl5m1)/[**ventilator**](https://github.com/jcl5m1/ventilator) | Low-Cost Open Source Ventilator or PAPR |
  | 148 | [@ProtofyTeam](https://github.com/ProtofyTeam)/[**OxyGEN**](https://github.com/ProtofyTeam/OxyGEN) | OxyGEN |
 
-#### Data Stream
+#### Strumienie danych
 
 | :star2:     | Repository   | Description  |
 |:-----------:|:-------------|:-------------|
@@ -279,9 +279,9 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 
 
-## Applications
+## Aplikacje
 
-#### Web Apps
+#### Aplikacje webowe
 
 | Link | Description  |
 |:-----|:-------------|
@@ -361,7 +361,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Corona Info - India](https://coronavirusapp.github.io) | Coronavirus Mobile Dashboard for India - Live Statistics (Refreshes every minute) | Helpline Numbers | Risks &amp; Precautions |
 | [nCovid-19](https://ncovid-19.live) | Real-time worldwide and India(state-wise) Covid-19 statistics along with map. |
 
-#### Android Apps
+#### Aplikacje Android
 
 | Link | Description  |
 |:-----|:-------------|
@@ -375,7 +375,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [COVID-19 Tracker for Xamarin.Forms](https://github.com/anaselhajjaji/covid19.xamarin.forms) | Simple Xamarin.Forms Application for COVID-19 statistics, it shows the differents statistics by countries. Application deployed in: [Microsoft AppCenter](https://install.appcenter.ms/users/elhajjajianas/apps/covid19/distribution_groups/public%20release) |
 | [MeFee Temp Tracker](https://mefee.org) | MeFee lets you easily track your temperature to build up baseline data so that you can get personalized early warning notifications if your temperature is out of your normal range. |
 
-#### IOS Apps
+#### Aplikacje IOS
 
 | Link | Description  |
 |:-----|:-------------|
@@ -385,7 +385,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 
 
-## Education and Courses
+## Edukacja i kursy
 
 | Link  | Description  |
 |:------|:-------------|
@@ -393,7 +393,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Fighting COVID-19 with Epidemiology](https://www.coursera.org/learn/covid19-epidemiology) | This free Teach-Out is for anyone who has been curious about how we identify and measure outbreaks like the COVID-19 epidemic and wants to understand the epidemiology of these infections. |
 
 
-## Social
+## Społeczne
 
 #### Twitter
 
@@ -444,7 +444,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 
 
 
-## Articles and Books
+## Artykuły i książki
 
 | Link  | Description  |
 |:------|:-------------|
@@ -486,7 +486,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility) | Google&#39;s Community Mobility Reports aimed to provide insights into what has changed in response to policies aimed at combating COVID-19. |
 
 
-## Interactive Applications
+## Aplikacje interaktywne
 
 | Link  | Description  |
 |:------|:-------------|
@@ -503,7 +503,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [Covid-19 Charts](https://corona.njoyard.fr) | Visualization tool for JHU CSSE Covid-19 data using EmberJS and Chart.js |
 
 
-## Hackathons
+## Hackatony
 
 | Link  | Description  |
 |:------|:-------------|
@@ -516,7 +516,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [#hackfromhome](https://www.hackfromhome.com) | An anti-viral virtual hackathon. |
 
 
-## Current Status
+## Aktualny stan
 
 | Link  | Description  |
 |:------|:-------------|
@@ -525,9 +525,9 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [ECDC](https://www.ecdc.europa.eu/en/novel-coronavirus-china) |  European Centre for Disease Prevention and Control |
 
 
-## Donation and Sponsoring
+## Darowizna i sponsoring
 
-Donate me with buying me some vitamins to boost my immune system during the coronavirus outbreak, I would maintain this repository if I was alive :) 
+"Donate me", kupując mi witaminy, aby wzmocnić układ odpornościowy podczas wybuchu pandemii koronawirusa, będę utrzymywał to repozytorium, dopóki żyję :) 
 
 #### Bitcoin
 <img src="https://i.imgur.com/9IgberJ.png" width="120" >
@@ -541,11 +541,11 @@ Donate me with buying me some vitamins to boost my immune system during the coro
 
 <hr>
 
-You can become a sponsor of `awesome-coronavirus` and be placed at the top of this repository in the [sponsor's section](#sponsors). If you are interested to become a sponsor please contact me with the following Email address:
+Możesz zostać sponsorem `awesome-coronavirus` i zostać umieszczonym na górze tego repozytorium w [sekcji sponsora](#sponsors). Jeśli chcesz zostać sponsorem, skontaktuj się ze mną korzystając z następującego adresu e-mail:
 #### `s1996ch@gmail.com`
 
-## Contribution
-Contributions welcome! Read the [contribution guidelines](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md) first.
+## Współtworzenie
+Współtworzenie mile widziane! Przeczytaj [wytyczne dotyczące współtworzenia](https://github.com/soroushchehresa/awesome-coronavirus/blob/master/contributing.md) first.
 
 ____________________________________________
 Stworzone przez @[soroushchehresa](https://github.com/soroushchehresa) polska wersja od @[mbiesiad](https://github.com/mbiesiad)
