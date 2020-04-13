@@ -68,7 +68,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 ## Dowiedz się
 
-| Link  | Description  |
+| Link  | Opis  |
 |:------|:-------------|
 | [Coronavirus](https://www.who.int/health-topics/coronavirus) | World Health Organization. |
 | [Novel coronavirus (COVID-19)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) | World Health Organization. |
@@ -80,7 +80,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 #### API
 
-| :star2:     | Repository   | Description  |
+| :star2:     | Repozytorium   | Opis  |
 |:-----------:|:-------------|:-------------|
  | 1619 | [@NovelCOVID](https://github.com/NovelCOVID)/[**API**](https://github.com/NovelCOVID/API) | API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain |
  | 1519 | [@BlankerL](https://github.com/BlankerL)/[**DXY-COVID-19-Crawler**](https://github.com/BlankerL/DXY-COVID-19-Crawler) | 2019新型冠状病毒疫情实时爬虫及API | COVID-19/2019-nCoV Realtime Infection Crawler and API |
@@ -112,7 +112,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 #### Statystyka i zestawy danych
 
-| :star2:     | Repository   | Description  |
+| :star2:     | Repozytorium   | Opis  |
 |:-----------:|:-------------|:-------------|
  | 20206 | [@CSSEGISandData](https://github.com/CSSEGISandData)/[**COVID-19**](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
  | 3971 | [@nytimes](https://github.com/nytimes)/[**covid-19-data**](https://github.com/nytimes/covid-19-data) | An ongoing repository of data on coronavirus cases and deaths in the U.S. |
@@ -157,7 +157,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 #### Modele
 
-| :star2:     | Repository   | Description  |
+| :star2:     | Repozytorium   | Opis  |
 |:-----------:|:-------------|:-------------|
  | 962 | [@neherlab](https://github.com/neherlab)/[**covid19_scenarios**](https://github.com/neherlab/covid19_scenarios) | Models of COVID-19 outbreak trajectories and hospital demand |
  | 551 | [@midas-network](https://github.com/midas-network)/[**COVID-19**](https://github.com/midas-network/COVID-19) | 2019 novel coronavirus repository |
@@ -174,14 +174,14 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 #### Nauka
 
-| :star2:     | Repository   | Description  |
+| :star2:     | Repozytorium   | Opis  |
 |:-----------:|:-------------|:-------------|
  | 307 | [@mattroconnor](https://github.com/mattroconnor)/[**deep_learning_coronavirus_cure**](https://github.com/mattroconnor/deep_learning_coronavirus_cure) | Using deep learning to generate novel molecules as candidates for binding with coronavirus protease |
  | 1 | [@jbesomi](https://github.com/jbesomi)/[**Korono**](https://github.com/jbesomi/Korono) | 👑Korono: question answering platform for COVID-19 papers |
 
 #### Mapy
 
-| :star2:     | Repository   | Description  |
+| :star2:     | Repozytorium   | Opis  |
 |:-----------:|:-------------|:-------------|
  | 209 | [@stevenliuyi](https://github.com/stevenliuyi)/[**covid19**](https://github.com/stevenliuyi/covid19) | an interactive, animated COVID-19 coronavirus map to track the outbreak over time by country and by region for selected countries |
  | 165 | [@BustByte](https://github.com/BustByte)/[**coronastatus**](https://github.com/BustByte/coronastatus) | 🇳🇴🇳🇱🇸🇰🇩🇰🇨🇴🇮🇹🇫🇷🇲🇽🇺🇸🇺🇦🇪🇸🇧🇷🇨🇦🇦🇺🇸🇬🇦🇷🇲🇾🇲🇹🇨🇱🇮🇳🇵🇹🇹🇷🇱🇹🇳🇵🇨🇿🇮🇩🇵🇭🇳🇬🇷🇴Join the fight! Open source webapp that let people report their health status to get overview of COVID-19 |
@@ -196,7 +196,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 #### Aplikacje i boty
 
-| :star2:     | Repository   | Description  |
+| :star2:     | Repozytorium   | Opis  |
 |:-----------:|:-------------|:-------------|
  | 970 | [@mhdhejazi](https://github.com/mhdhejazi)/[**CoronaTracker**](https://github.com/mhdhejazi/CoronaTracker) | Coronavirus tracker app for iOS &amp; macOS with maps &amp; charts |
  | 453 | [@phildini](https://github.com/phildini)/[**stayinghomeclub**](https://github.com/phildini/stayinghomeclub) | A list of all the companies WFH or events changed because of covid-19 |
@@ -242,7 +242,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 #### Pakiety i skrypty
 
-| :star2:     | Repository   | Description  |
+| :star2:     | Repozytorium   | Opis  |
 |:-----------:|:-------------|:-------------|
  | 546 | [@datasets](https://github.com/datasets)/[**covid-19**](https://github.com/datasets/covid-19) | Novel Coronavirus 2019 time series data on cases |
  | 36 | [@koushikkothagal](https://github.com/koushikkothagal)/[**coronavirus-tracker**](https://github.com/koushikkothagal/coronavirus-tracker) | Spring Boot Java app to track coronavirus confirmed cases across the globe |
@@ -254,7 +254,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 #### CLI
 
-| :star2:     | Repository   | Description  |
+| :star2:     | Repozytorium   | Opis  |
 |:-----------:|:-------------|:-------------|
  | 1324 | [@ahmadawais](https://github.com/ahmadawais)/[**corona-cli**](https://github.com/ahmadawais/corona-cli) | 🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (&lt; 100ms). |
  | 891 | [@sagarkarira](https://github.com/sagarkarira)/[**coronavirus-tracker-cli**](https://github.com/sagarkarira/coronavirus-tracker-cli) | Track conronavirus cases from command line. curl https://corona-stats.online/ |
@@ -266,14 +266,14 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 #### Hardware
 
-| :star2:     | Repository   | Description  |
+| :star2:     | Repozytorium   | Opis  |
 |:-----------:|:-------------|:-------------|
  | 1601 | [@jcl5m1](https://github.com/jcl5m1)/[**ventilator**](https://github.com/jcl5m1/ventilator) | Low-Cost Open Source Ventilator or PAPR |
  | 148 | [@ProtofyTeam](https://github.com/ProtofyTeam)/[**OxyGEN**](https://github.com/ProtofyTeam/OxyGEN) | OxyGEN |
 
 #### Strumienie danych
 
-| :star2:     | Repository   | Description  |
+| :star2:     | Repozytorium   | Opis  |
 |:-----------:|:-------------|:-------------|
  | 19 | [@SolaceLabs](https://github.com/SolaceLabs)/[**jhu-covid19-stream-processors**](https://github.com/SolaceLabs/jhu-covid19-stream-processors) | Stream Information &amp; Example Applications for Processing JHU COVID-19 data available as streams over Solace |
 
@@ -283,7 +283,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 #### Aplikacje webowe
 
-| Link | Description  |
+| Link | Opis  |
 |:-----|:-------------|
 | [coronatracker.com](https://www.coronatracker.com) | CORONATRACKER.com is a community-based project powered by over 460 volunteers from across the globe, ranging from data scientists, medical professionals, UI/UX designers, fullstack developers, to the general public. |
 | [coronavirus.app](https://coronavirus.app) | Coronavirus statistics by map. |
@@ -363,7 +363,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 #### Aplikacje Android
 
-| Link | Description  |
+| Link | Opis  |
 |:-----|:-------------|
 | [코로나맵100m](https://play.google.com/store/apps/details?id=com.tina3d.corona100m&amp;amp;hl=en_US) | 코백 - 코로나맵 정보 알림 서비스. |
 | [~~CoronaVirus Tracker 2019-nCoV~~](https://play.google.com/store/apps/details?id=com.agmostudio.coronatracker&amp;hl=en) | Statistics, map of cases. |
@@ -377,7 +377,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 #### Aplikacje IOS
 
-| Link | Description  |
+| Link | Opis  |
 |:-----|:-------------|
 | [Relief Central](https://apps.apple.com/us/app/relief-central/id353219185) | Coronavirus (COVID-19) Updates. |
 | [HEALTHLYNKED COVID-19 Tracker](https://apps.apple.com/us/app/healthlynked-covid-19-tracker/id1500575377) | Corona virus tracker. |
@@ -387,7 +387,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 ## Edukacja i kursy
 
-| Link  | Description  |
+| Link  | Opis  |
 |:------|:-------------|
 | [450-free-courses](https://github.com/soroushchehresa/450-free-courses) | Here are 450 Ivy League courses you can take online right now for free. |
 | [Fighting COVID-19 with Epidemiology](https://www.coursera.org/learn/covid19-epidemiology) | This free Teach-Out is for anyone who has been curious about how we identify and measure outbreaks like the COVID-19 epidemic and wants to understand the epidemiology of these infections. |
@@ -397,7 +397,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 #### Twitter
 
-| Link      | Description  |
+| Link      | Opis  |
 |:----------|:-------------|
 | [BotCorona](https://twitter.com/BotCorona) | A bot that keeps track of the #CoronaVirus Data gets tweeted every 2 hours. |
 | [coronavcharts](https://twitter.com/coronavcharts) | Your number #1 source on charts and “news” for #Coronavirus. |
@@ -411,7 +411,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 #### Telegram
 
-| Link      | Description  |
+| Link      | Opis  |
 |:----------|:-------------|
 | [SG Fight Coronavirus](https://t.me/sgFight) | Let&#39;s Fight Coronavirus together in Singapore. |
 | [Coronavirus Updates](https://t.me/coronavirusupdates) | Info-sharing on COVID-19. |
@@ -430,7 +430,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 #### WhatsApp
 
-| Link      | Description  |
+| Link      | Opis  |
 |:----------|:-------------|
 | [latest information about the COVID-19](https://go.gov.sg/whatsapp) | Gov.sg WhatsApp Subscription |
 | [WHO Health Alert](http://bit.ly/who-covid19-whatsapp) | WHO WhatsApp Subscription for COVID-19 related information |
@@ -438,7 +438,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 #### Forum
 
-| Link      | Description  |
+| Link      | Opis  |
 |:----------|:-------------|
 | [Entraide Coronavirus](https://www.entraidecoronavirus.fr) | Forum pour favoriser l&#39;entraide et la solidarité pendant la pandémie de COVID-19 |
 
@@ -446,7 +446,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 ## Artykuły i książki
 
-| Link  | Description  |
+| Link  | Opis  |
 |:------|:-------------|
 | [Wuhan Coronavirus (COVID-19)](https://www.amazon.com/Wuhan-Coronavirus-COVID-19-expensive-threatenings-ebook/dp/B0863P6BTD/ref=sr_1_8?crid=2T6ZLXTXJ0L7D&amp;dchild=1&amp;keywords=coronavirus&amp;qid=1584822799&amp;s=books&amp;sprefix=corona%2Caps%2C161&amp;sr=1-8) | Secret Tested Ways to Protect YOUR Business From Wuhan Coronavirus (COVID-19) |
 | [101 Science-Based Tips That Could Save Your Life](https://www.amazon.com/Coronavirus-Prevention-Handbook-Science-Based-Could-ebook/dp/B085DKMXGY/ref=sr_1_7?crid=2T6ZLXTXJ0L7D&amp;dchild=1&amp;keywords=coronavirus&amp;qid=1584822799&amp;s=books&amp;sprefix=corona%2Caps%2C161&amp;sr=1-7) | From Dr. Wang Zhou and his colleagues at the Wuhan Center for Disease Control and Prevention comes a must-have guide for preparing for an outbreak of the coronavirus virus (COVID-19). |
@@ -472,7 +472,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 ## Research Outlets
 
-| Link  | Description  |
+| Link  | Opis  |
 |:------|:-------------|
 | [The Lancet COVID-19 Resource Centre](https://www.thelancet.com/coronavirus) | Journal page that aggregates coronavirus related research output. |
 | [American Society for Microbiology](https://journals.asm.org/search/coronavirus%20jcode%3Aaem%7C%7Caac%7C%7Ccdli%7C%7Ccmr%7C%7Ceukcell%7C%7Ciai%7C%7Cjb%7C%7Cjcm%7C%7Cjvi%7C%7Cmbio%7C%7Cmmbr%7C%7Cga%7C%7Cmcb%7C%7Cmsph%7C%7Cmsys%20limit_from%3A2019-01-01%20limit_to%3A2020-01-23%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard?_ga=2.34252577.1885462816.1583650093-393486013.1583650093) | AMS search portal. |
@@ -488,7 +488,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 ## Aplikacje interaktywne
 
-| Link  | Description  |
+| Link  | Opis  |
 |:------|:-------------|
 | [University of Virginia: COVID-19 Surveillance Dashboard](http://nssac.bii.virginia.edu/covid-19/dashboard) | Dashboard showing. |
 | [Johns Hopkins CSSE: Coronavirus COVID-19 Global Cases](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) | Dashboard application providing interaction to global case data. |
@@ -505,7 +505,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 ## Hackatony
 
-| Link  | Description  |
+| Link  | Opis  |
 |:------|:-------------|
 | [#BuildforCOVID19 Global Online Hackathon](https://covid-global-hackathon.devpost.com) | The COVID-19 Global Hackathon is an opportunity for developers to build software solutions that drive social impact, with the aim of tackling some of the challenges related to the current coronavirus (COVID-19) pandemic. |
 | [codevscovid19](https://www.codevscovid19.org) | Create solutions to address COVID19 Challenges. |
@@ -518,7 +518,7 @@ Jeśli jesteś programistą, możesz być w stanie wnieść wkład do niektóryc
 
 ## Aktualny stan
 
-| Link  | Description  |
+| Link  | Opis  |
 |:------|:-------------|
 | [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) | World Health Orginization. |
 | [CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/index.html) | Center for Disease control. |
